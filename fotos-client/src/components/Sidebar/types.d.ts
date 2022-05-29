@@ -1,0 +1,3 @@
+interface SidebarProps {
+	opened: boolean;
+}

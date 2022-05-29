@@ -1,0 +1,3 @@
+interface ErrorFallbackPropType {
+	error: Error;
+}

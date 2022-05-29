@@ -1,0 +1,3 @@
+interface ImageUploaderProps {
+	eventId: number;
+}
