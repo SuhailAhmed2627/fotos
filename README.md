@@ -32,7 +32,7 @@ The server should now run
 
 # Installation - Server
 
-Clone the repository to your local device and make sure you have [BRA](github.com/unknwon/bra) installed
+Clone the repository to your local device and make sure you have [BRA](https://pkg.go.dev/github.com/unknwon/bra) installed
 
 1. Install the Go Modules:
 
